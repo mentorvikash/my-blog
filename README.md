@@ -1,4 +1,8 @@
-# A Simple BLog App
+# Simple Blogging App
+
+A personal blog applcation, which allow you to manage all your blog from admin panel, give you ability to create, edit our delete your blog.
+
+Also give ability to your views to like post and add comments to each blog post.
 
 ## Getting Started
 
